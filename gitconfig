@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = juliettebuckley@icloud.com
+	name = Jules Buckley
